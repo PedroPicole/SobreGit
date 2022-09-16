@@ -38,6 +38,7 @@ Uma ordem simples e resumida dos passos seria a seguinte:
         Este comando envia todos os commits já feitos ao reporitório no GitHub.
 
 Estes são os passos básicos.
+Esta linha é apenas um teste de branchs no Git.
 
 
     git push origin main
@@ -46,4 +47,3 @@ Estes são os passos básicos.
 
     git remote set-url origin [url...]
         Comando útil para quando se quer mudar a url do repositório origin/main.
-        
