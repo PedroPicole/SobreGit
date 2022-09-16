@@ -30,4 +30,20 @@ Uma ordem simples e resumida dos passos seria a seguinte:
         Este comando pede ao git para dar commit a tudo que foi adicionado recentemente ao stage.
         O que está entre as aspas é a mensagem que será commitada junto às mudanças.
 
-Estes são os passos para
+    7° git remote add origin https://[...].git
+        Este comando adiciona o seu repositório do Git ao GitHub desejado. Usando como exemplo o
+        meu GitHub ficaria assim: git remote add origin https://github.com/PedroPicole/SobreGit.git
+
+    8° git push -u origin main
+        Este comando envia todos os commits já feitos ao reporitório no GitHub.
+
+Estes são os passos básicos.
+
+
+    git push origin main
+        Comando parecido com o 8° e tem a mesma função. Não contém o "-u" pois não é a primeira vez
+        que o comando "push" é dado.
+
+    git remote set-url origin [url...]
+        Comando útil para quando se quer mudar a url do repositório origin/main.
+        
