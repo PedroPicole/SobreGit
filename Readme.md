@@ -1,4 +1,5 @@
 Bom dia, bom dia!
+No sir!
 
 Neste arquivo eu irei ensinar como usar o Git. Por ser a minha primeira vez ensinando algo 
 relacionado com programação e coding, minha didática será bem ruim, presumo eu.
